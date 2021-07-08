@@ -1,0 +1,2 @@
+# GNNt
+GNN bundle test
